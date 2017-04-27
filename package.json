@@ -1,7 +1,7 @@
 {
   "name": "@ull-carlos-david/ull-square",
   "version": "1.0.0",
-  "description": "square",
+  "description": "Clase square que hereda de Shapes",
   "main": ".lib/square.js",
   "directories": {
     "test": "test"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-carlos-david-35l2-p5-square"
+    "url": "git+https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-carlos-david-35l2-p5-square.git"
   },
   "author": "Carlos Fernández Donate",
   "license": "ISC",

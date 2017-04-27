@@ -1,6 +1,6 @@
 'use strict'
 
-let Square = require("../lib/square.js");
+let Square = require("../lib/square");
 let Shapes = require('@ull-carlos-david/ull-shape')
 
 describe("getArea Square", function() {
