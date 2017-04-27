@@ -1,5 +1,5 @@
 {
-  "name": "ull-shape",
+  "name": "@ull-carlos-david-ull-square",
   "version": "1.0.0",
   "description": "square",
   "main": ".lib/shape.js",
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-carlos-david-35l2-p5.git"
   },
-  "author": "Carlos Fernández Donate y David Dorta Acosta",
+  "author": "Carlos Fernández Donate",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-carlos-david-35l2-p5/issues"
