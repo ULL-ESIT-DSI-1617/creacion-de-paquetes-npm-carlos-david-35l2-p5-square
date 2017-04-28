@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Práctica 8: Creación de Paquetes NPM y Strategy Pattern
 
 ## Descripción
@@ -44,3 +45,8 @@ David Dorta Acosta
 * [Página personal](https://alu0100851236.github.io/)
 
 creacion-de-paquetes-npm-carlos-david-35l2-p5 created by GitHub Classroom
+=======
+# creacion-de-paquetes-npm-carlos-david-35l2-p5-square
+
+[![Build Status](https://travis-ci.org/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-carlos-david-35l2-p5-square.svg?branch=master)](https://travis-ci.org/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-carlos-david-35l2-p5-square)
+>>>>>>> origin/master
